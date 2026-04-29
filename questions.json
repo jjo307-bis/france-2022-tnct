@@ -1,0 +1,7 @@
+[
+  {"id":1,"question":"Comment répondre à la baisse du pouvoir d’achat ?","answers":[1,2,3,4]},
+  {"id":2,"question":"Quelle priorité sécuritaire en 2022 ?","answers":[5,6,7,8]},
+  {"id":3,"question":"Quelle politique migratoire ?","answers":[9,10,11,12]},
+  {"id":4,"question":"Quel avenir pour la protection sociale ?","answers":[13,14,15,16]},
+  {"id":5,"question":"Comment lutter contre le chômage ?","answers":[17,18,19,20]}
+]
