@@ -1,0 +1,16 @@
+{
+  "name": "France – Présidentielle 2022",
+  "description": "Simulation de la présidentielle française de 2022",
+  "author": "VotreNom",
+  "version": "1.0",
+  "year": 2022,
+  "files": [
+    "election.json",
+    "issues.json",
+    "states.json",
+    "candidates.json",
+    "questions.json",
+    "answers.json",
+    "endings.json"
+  ]
+}
