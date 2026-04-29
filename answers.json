@@ -1,0 +1,26 @@
+[
+  {"id":1,"text":"Baisser les taxes.","effects":{"1":1}},
+  {"id":2,"text":"Augmenter les aides sociales.","effects":{"1":2}},
+  {"id":3,"text":"Indexer salaires et retraites.","effects":{"1":3}},
+  {"id":4,"text":"Laisser le marché agir.","effects":{"1":0}},
+
+  {"id":5,"text":"Tolérance zéro.","effects":{"2":3}},
+  {"id":6,"text":"Renforcer police et justice.","effects":{"2":2}},
+  {"id":7,"text":"Prévention sociale.","effects":{"2":-1}},
+  {"id":8,"text":"Approche équilibrée.","effects":{"2":0}},
+
+  {"id":9,"text":"Immigration quasi nulle.","effects":{"3":3}},
+  {"id":10,"text":"Contrôle strict.","effects":{"3":2}},
+  {"id":11,"text":"Accueil régulé.","effects":{"3":-1}},
+  {"id":12,"text":"Frontières ouvertes.","effects":{"3":-2}},
+
+  {"id":13,"text":"Renforcer l’État-providence.","effects":{"4":3}},
+  {"id":14,"text":"Investir dans l’hôpital.","effects":{"4":2}},
+  {"id":15,"text":"Réformes ciblées.","effects":{"4":0}},
+  {"id":16,"text":"Responsabilisation individuelle.","effects":{"4":-1}},
+
+  {"id":17,"text":"Emplois publics.","effects":{"5":2}},
+  {"id":18,"text":"Réindustrialisation.","effects":{"5":1}},
+  {"id":19,"text":"Flexibilité du travail.","effects":{"5":2}},
+  {"id":20,"text":"Libre entreprise.","effects":{"5":0}}
+]
